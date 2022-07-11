@@ -42,7 +42,7 @@ const Navbar = ({ firebase }) => {
                 }}
             >
                 <div>
-                    <p style={{ marginBottom: '0px' }}>
+                    <p className="text-light" style={{ marginBottom: '0px' }}>
                         Olá, {`${firebase.getUser().email}`}
                     </p>
                 </div>
