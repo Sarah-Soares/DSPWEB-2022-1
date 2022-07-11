@@ -1,0 +1,28 @@
+{
+  "estudantes": [
+    {
+      "": 1,
+      "name": "Sarah",
+      "course": "Sistemas de Informação",
+      "ira": "15"
+    },
+    {
+      "": 2,
+      "name": "Juan",
+      "course": "Engenharia de Computação",
+      "ira": 9
+    },
+    {
+      "": 3,
+      "name": "Momô",
+      "course": "Engenharia de Software",
+      "ira": 3
+    },
+    {
+      "name": "Laila Maria",
+      "ira": "10",
+      "course": "Design Digital",
+      "": 5
+    }
+  ]
+}
